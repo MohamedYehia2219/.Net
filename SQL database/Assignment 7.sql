@@ -38,9 +38,9 @@ from Departments d, Employee e
 where d.Dnum = e.Dno and e.SSN = (select min(SSN) from Employee)
 
 --List the last name of all managers who have no dependents.
-select lname
-from Employee
-where SSN not in (select distinct essn from Dependent)
+select distinct e.lname
+from Employee e, Departments d
+where SSN not in (select distinct essn from Dependent) and e.SSN = d.MGRSSN
 
 --For each department if its average salary is less than the average salary of all employees display its number,
 --name and number of its employees.
