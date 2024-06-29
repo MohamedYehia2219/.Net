@@ -1,0 +1,14 @@
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\bin\Debug\net8.0\Session2.exe
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\bin\Debug\net8.0\Session2.deps.json
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\bin\Debug\net8.0\Session2.runtimeconfig.json
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\bin\Debug\net8.0\Session2.dll
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\bin\Debug\net8.0\Session2.pdb
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\obj\Debug\net8.0\Session2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\obj\Debug\net8.0\Session2.AssemblyInfoInputs.cache
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\obj\Debug\net8.0\Session2.AssemblyInfo.cs
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\obj\Debug\net8.0\Session2.csproj.CoreCompileInputs.cache
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\obj\Debug\net8.0\Session2.dll
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\obj\Debug\net8.0\refint\Session2.dll
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\obj\Debug\net8.0\Session2.pdb
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\obj\Debug\net8.0\Session2.genruntimeconfig.cache
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session2\Session2 soluiton\Session2\obj\Debug\net8.0\ref\Session2.dll
