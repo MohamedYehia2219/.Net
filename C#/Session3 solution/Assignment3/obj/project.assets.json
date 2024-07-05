@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yehia\\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\\Desktop\\.Net\\C#\\Session3\\Session3 Solution\\Assignment3\\Assignment3.csproj",
+      "projectUniqueName": "C:\\Users\\yehia\\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\\Documents\\GitHub\\.Net\\C#\\Session3 solution\\Assignment3\\Assignment3.csproj",
       "projectName": "Assignment3",
-      "projectPath": "C:\\Users\\yehia\\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\\Desktop\\.Net\\C#\\Session3\\Session3 Solution\\Assignment3\\Assignment3.csproj",
+      "projectPath": "C:\\Users\\yehia\\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\\Documents\\GitHub\\.Net\\C#\\Session3 solution\\Assignment3\\Assignment3.csproj",
       "packagesPath": "C:\\Users\\yehia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yehia\\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\\Desktop\\.Net\\C#\\Session3\\Session3 Solution\\Assignment3\\obj\\",
+      "outputPath": "C:\\Users\\yehia\\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\\Documents\\GitHub\\.Net\\C#\\Session3 solution\\Assignment3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yehia\\AppData\\Roaming\\NuGet\\NuGet.Config",
