@@ -1,0 +1,14 @@
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\bin\Debug\net8.0\Session4.exe
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\bin\Debug\net8.0\Session4.deps.json
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\bin\Debug\net8.0\Session4.runtimeconfig.json
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\bin\Debug\net8.0\Session4.dll
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\bin\Debug\net8.0\Session4.pdb
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\obj\Debug\net8.0\Session4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\obj\Debug\net8.0\Session4.AssemblyInfoInputs.cache
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\obj\Debug\net8.0\Session4.AssemblyInfo.cs
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\obj\Debug\net8.0\Session4.csproj.CoreCompileInputs.cache
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\obj\Debug\net8.0\Session4.dll
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\obj\Debug\net8.0\refint\Session4.dll
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\obj\Debug\net8.0\Session4.pdb
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\obj\Debug\net8.0\Session4.genruntimeconfig.cache
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\C#\Session4\Session4 solution\Session4\obj\Debug\net8.0\ref\Session4.dll
