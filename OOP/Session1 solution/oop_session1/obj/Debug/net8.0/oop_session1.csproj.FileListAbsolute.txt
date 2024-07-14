@@ -1,0 +1,14 @@
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\bin\Debug\net8.0\oop_session1.exe
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\bin\Debug\net8.0\oop_session1.deps.json
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\bin\Debug\net8.0\oop_session1.runtimeconfig.json
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\bin\Debug\net8.0\oop_session1.dll
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\bin\Debug\net8.0\oop_session1.pdb
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\obj\Debug\net8.0\oop_session1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\obj\Debug\net8.0\oop_session1.AssemblyInfoInputs.cache
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\obj\Debug\net8.0\oop_session1.AssemblyInfo.cs
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\obj\Debug\net8.0\oop_session1.csproj.CoreCompileInputs.cache
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\obj\Debug\net8.0\oop_session1.dll
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\obj\Debug\net8.0\refint\oop_session1.dll
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\obj\Debug\net8.0\oop_session1.pdb
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\obj\Debug\net8.0\oop_session1.genruntimeconfig.cache
+C:\Users\yehia\source\repos\oop_session1 solution\oop_session1\obj\Debug\net8.0\ref\oop_session1.dll
