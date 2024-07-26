@@ -1,0 +1,11 @@
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\bin\Debug\net8.0\Common.dll
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\obj\Debug\net8.0\Common.dll
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\yehia\OneDrive - Faculty of Computer and Information Sciences (Ain Shams University)\Desktop\.Net\3. OOP\Session2\oop_session2 sloution\Common\obj\Debug\net8.0\ref\Common.dll
